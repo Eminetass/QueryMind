@@ -1,0 +1,141 @@
+N&L’dan Temmuz Ayı Yapay Zeka ve NLP Bülteni — Temmuz 2024
+
+YapayZeka, NLP, GPT4oMini, MistralNeMo, Gemini1_5Pro, ClaudeAI, TelifHakları, Suno, Udio, AppleAI, StabilityAI, YouTubeAI, FigmaAI, Adept, Grok2, AIÇözümleri, LLM, AIHaberleri
+
+Merhaba Yapay Zeka ve Doğal Dil İşleme (NLP) meraklıları! Nane&Limon olarak, bu ay sizlere yapay zekanın en heyecan verici gelişmelerini sunuyoruz. Temmuz ayında teknoloji dünyasında yaşanan dikkat çekici yenilikler, ileri düzey AI modelleri ve ilginç haberlerle dolu bültenimizi sizlerle paylaşıyoruz. Hazırsanız, temmuz ayının en güncel ve önemli yapay zeka gelişmelerine birlikte göz atalım!
+
+
+GPT-4o Mini: Maliyet Etkin AI Çözümleri için Mini Model
+
+OpenAI, maliyet etkin yapay zeka modeli GPT-4o mini’yi tanıttı. Bu model, 1 milyon input token için 0.15$ ve 1 milyon output token için 0.60$’a sunulurken, GPT-3.5 Turbo’dan daha düşük maliyetle üstün performans sağlıyor.
+
+
+Mistral Yeni NeMo Modeli
+
+Mistral, NVIDIA iş birliğiyle 12 milyar parametreli Mistral NeMo modelini duyurdu. 128k token context window’a sahip ve FP8 çıkarım uyumluluğu sunan bu model, açık kaynak olarak Apache 2.0 altında sunuluyor ve çok dilli yetenekleriyle dikkat çekiyor.
+https://mistral.ai/news/mistral-nemo/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Gemini 1.5 Pro ve Gemma 2: Yeni Özellikler ve Güncellemeler
+
+Gemini 1.5 Pro, 2 milyon tokenlık genişletilmiş context window ve yeni kod yürütme özellikleri ile güncellendi. Bu yenilikler, karmaşık görevlerde performansı artırmayı hedefliyor. Ayrıca, Gemini 1.5 Flash tuning piyasaya sürüldü ve Gemma 2, Google AI Studio’da test için kullanıma açıldı.
+https://developers.googleblog.com/en/new-features-for-the-gemini-api-and-google-ai-studio/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Claude: Yeni Özellikler ve Güncellemeler:
+
+Claude.ai, Pro ve Takım kullanıcıları için geliştirilmiş “Projects” özelliğini tanıttı. Bu özellik, Claude 3.5 Sonnet’in 200K context window’u ile organize sohbetler, belge entegrasyonu ve kişiselleştirilmiş yardım sunarak işbirliğini artırıyor. Artifacts ve paylaşılan etkinlik akışı platformu daha kullanışlı hale getirdi.
+https://www.anthropic.com/news/projects?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Büyük Müzik Şirketlerinden Suno ve Udio’ya Telif Hakkı Davası!
+
+Büyük müzik şirketleri, yapay zeka müzik firmaları Suno ve Udio’ya, telif hakkı ile korunan şarkıları lisanssız kullanarak AI modellerini eğittikleri gerekçesiyle dava açtı. Suno ve Udio, çalışmalarının dönüştürücü olduğunu ve adil kullanım kapsamında olduğunu savunuyor.
+https://www.billboard.com/pro/major-label-lawsuit-ai-firms-suno-udio-copyright-infringement/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+Apple, Yeni AI Teknolojilerini AB’de Piyasaya Sürmüyor
+
+Apple Inc, Dijital Pazarlar Yasası’nın gereksinimlerine uyum sağlama zorunluluğu nedeniyle, yeni yapay zeka teknolojilerini Avrupa Birliği’nde piyasaya sürmeyi erteledi. Bu durum, gizlilik ve güvenliği etkileyerek Apple Intelligence, iPhone Mirroring ve SharePlay gibi özellikleri kapsıyor. Apple, AB düzenlemelerine göre bir “gatekeeper” olarak kabul ediliyor.
+
+Stability.ai: Yeni CEO ve Yatırım Ekibi ile Yeniden Yapılanma
+
+Prem Akkaraju, Stability.ai’nin yeni CEO’su olarak atandı ve şirket önemli isimlerden yatırım aldı. Akkaraju’nun rolü, şirketin dönüşüm çabalarını yönlendirmede ve şirketin geleceğini şekillendirmede kritik önem taşıyor.
+
+YouTube, AI Eğitimi için Plak Şirketleri ile Anlaşma Yapmayı Planlıyor
+
+YouTube, Sony, Universal ve Warner gibi büyük plak şirketleri ile AI eğitimi için lisans anlaşmaları yapmayı planlıyor. Ancak sanatçılardan bu konuda tepki alıyor. Bu arada, plak şirketleri AI müzik platformları Suno ve Udio’ya telif hakkı ihlali nedeniyle dava açıyor.
+https://www.engadget.com/youtube-reportedly-wants-to-pay-record-labels-to-use-their-songs-for-ai-training-125052503.html?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Figma AI: Tasarımcılar için Akıllı Araçlar
+
+Figma, AI destekli arama yetenekleri, metin ve görüntü oluşturma araçları ve gelişmiş prototip oluşturma işlevlerine sahip yeni AI destekli tasarım platformu Figma AI’yı tanıttı. Şu anda beta sürümünde olan Figma AI, 2024’e kadar ücretsiz olacak, ancak araçların maliyetine bağlı olarak kullanım sınırlandırılabilir.
+https://www.figma.com/blog/introducing-figma-ai/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+Apple’ın Phil Schiller’ı OpenAI Yönetim Kuruluna Katılıyor
+
+Apple’ın App Store şefi Phil Schiller, OpenAI’nin kâr amacı gütmeyen yönetim kuruluna gözlemci olarak atanabilir. Bu rol, Schiller’ın yapay zekayı daha iyi anlamasını sağlarken, Apple’ın ChatGPT’yi işletim sistemlerine entegre etme çalışmalarını destekleyecek. Schiller, toplantılara katılacak ancak oy kullanma hakkı olmayacak.
+
+https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Microsoft, OpenAI Yönetim Kurulu Gözlemci Koltuğundan Çekildi
+
+Microsoft, CEO Sam Altman’ın liderliğindeki OpenAI’nin gidişatına duyduğu güveni yansıtarak OpenAI yönetim kurulundaki gözlemci koltuğundan çekildi. Bu hamle, Microsoft’un OpenAI ile olan ilişkisini daha doğrudan bir iş birliğine dönüştürürken, antitröst sorunlarını da ele alabilir. OpenAI, gelecekte gözlemci rolü sunmayacak ve Microsoft ve Apple ile doğrudan iş birliği yapmayı tercih edecek.
+https://www.axios.com/2024/07/10/microsoft-openai-board-seat-observer?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Adept, Amazon’a Katılıyor
+
+Adept ekibi, kurucu ortakları da dahil olmak üzere Amazon’un AGI bölümüne entegre oluyor. Bu birleşme, genel zeka çalışmalarını ilerletmeyi hedefliyor. Amazon, Adept’in gelişmiş çok modlu ajan teknolojisini lisansladı ve belirli veri setlerini satın aldı.
+https://www.adept.ai/blog/adept-update?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Elon Musk: Grok 2 AI Ağustos’ta Geliyor
+
+Elon Musk, 2024 yılının Ağustos ayında çıkacak olan yeni AI modeli Grok 2’yi tanıttı. Grok 2, gelişmiş verimlilik vaat ediyor. Musk’ın şirketi, aynı yılın sonunda Nvidia GPU teknolojisini kullanarak Grok 3’e geçmeyi planlıyor.
+https://www.pcmag.com/news/elon-musk-grok-2-ai-arrives-in-august?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+YouTube, Yapay Zeka Tarafından Oluşturulan İçeriklerin Kaldırılmasını Talep Etme İmkanı Sunuyor
+
+YouTube, gizlilik politikasını güncelleyerek kullanıcıların, yüzlerini veya seslerini taklit eden deepfake içeriklerin kaldırılmasını talep etmelerine olanak tanıyor. Bu değişiklik, içerik bağlamı ve kamusal ilgi gibi belirli durumları göz önünde bulundurarak yapılıyor.
+https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/?guccounter=1&guce_referrer=aHR0cHM6Ly9tZWRpdW0uY29tL25scGxhbmV0L3dlZWtseS1haS1uZXdzLWp1bHktOHRoLTIwMjQtOWQ5NjQwMzA0NTQ1&guce_referrer_sig=AQAAAE4vbYUr5SwRaM0j1sn8CETEXPlLH4_eezHdVkGZttQm7YmVypEsEuj-qg0HSv2JyE82gcBjuCAtiiOQVmL5ZHRCneb99OJXS8s608lMb6xhoR9YlRp8mq0dfsCUNF5I393lgDIiS6yX9CwjzWvjw8m4FiiArQM7hslzG70ZLxj2&source=post_page-----edb5b5af19c3--------------------------------
+
+
+Figma, Apple’ın Tasarımını Kopyalamakla Suçlanmasının Ardından AI Aracını Geri Çekti
+
+Figma, Apple’ın iOS hava durumu uygulaması arayüzlerini kopyalamakla suçlanmasının ardından Make Designs AI aracını geri çekti. CEO Dylan Field, uygulamanın hatalı duğunu kabul ederken, CDT Kris Rasmussen, üçüncü taraf AI modellerinin kullanıldığını ve bu modellerin muhtemelen OpenAI veya Amazon gibi kaynaklardan elde edildiğini belirterek olası eğitim endişelerine dikkat çekti.
+https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+
+OpenAI, Beş Seviyeli AI Ölçeğini Tanıttı ve Yakında Seviye 2’ye Ulaşmayı Hedefliyor
+
+OpenAI, beş aşamalı AGI (Genel Yapay Zeka) ilerleme ölçeğini tanıttı ve Seviye 2 “Mantıkçı”ya yaklaştıklarını belirtti. İnsan benzeri problem çözme yetenekleri ile karakterize edilen Seviye 2, gelişmiş mantık ve akıl yürütme ile tanımlanıyor ve önümüzdeki 1.5 yıl içinde ulaşılması bekleniyor.
+
+Level 1: Chatbots, natural language
+Level 2: Reasoners, can apply logic and solve problems at a human level
+Level 3: Agents, can perform additional actions
+Level 4: Innovators, can make new inventions
+Level 5: Can do the work of an entire organization
+https://the-decoder.com/openai-unveils-five-level-ai-scale-aims-to-reach-level-2-soon/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Stability AI, Stable Assistant Özelliklerini Piyasaya Sürdü
+
+Stability AI, Stable Diffusion 3’ten yeni yetenekler ekleyerek Stable Assistant’ı geliştirdi. Yeni “Arama ve Değiştirme” özelliği, görüntülerde nesne değiştirmeyi sağlarken, mevcut görüntü düzenleme, ölçek büyütme ve video oluşturma işlevleri de devam ediyor.
+https://stability.ai/news/stability-ai-releases-stable-assistant-features?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+Stability AI Lisans Güncellemeleri
+
+Stability AI, bireyler ve küçük işletmeler için daha cömert şartlar sunan “Stegree AI Community License” adı altında lisanslarını revize etti. Bu lisans, belirli gelir eşiği altında ücretsiz kullanım ve ticari olmayan ve küçük işletme kullanımı için kısıtlama olmamasını sağlarken, SD3 Medium modelinin kalite sorunlarını da ele alıyor.
+https://stability.ai/news/license-update?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+Büyük AI Firmaları Gizlice LLM Eğitimi İçin Youtube’deki Videolarımı Kullandı???!
+
+Apple, Nvidia ve Anthropic gibi büyük yapay zeka firmalarının, 173 bin YouTube videosunun altyazılarını AI modellerini eğitmek için kullandığı idda ediliyor. Bu durum, YouTube’un veri toplama politikalarını ihlal etme riskini beraberinde getiriyor ve içerik üreticilerinin hakları konusunda endişeler doğuruyor.
+https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+
+Codestral Mamba
+
+Mistral, uzun veri dizilerini etkili bir şekilde yönetebilen yeni kodlama odaklı modelini, Codestral Mamba’yı tanıttı. Bu model, yüksek verimlilik sağlayarak uzun süreli dizilerle çalışma yeteneği sunuyor. Açık kaynak olarak sunulan Codestral Mamba, GitHub üzerinden erişilebilir ve çeşitli entegrasyon seçenekleriyle genişletilebilir, böylece kullanıcılar farklı ihtiyaçlarına göre özelleştirme yapabilirler.
+https://mistral.ai/news/codestral-mamba/?source=post_page-----edb5b5af19c3--------------------------------
+
+
+Microsoft CTO Kevin Scott: LLM Ölçekleme Yasaları Hala Geçerli
+
+Microsoft CTO’su Kevin Scott, Sequoia Capital podcast’inde Büyük Dil Modelleri’nin büyüme potansiyeline olan güvenini dile getirdi. AI gelişiminde bir zirveye ulaşma fikrine karşı çıkarak, model boyutlarının ve eğitim kapasitelerinin genişletilmesinin avantajlarını vurguladı
+https://arstechnica.com/information-technology/2024/07/microsoft-cto-defies-critics-ai-progress-not-slowing-down-its-just-warming-up/?source=post_page-----edb5b5af19c3--------------------------------

@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+SQLAlchemy==2.0.35
+pyodbc==5.1.0
+faiss-cpu==1.9.0
+sentence-transformers==3.2.0
+Jinja2==3.1.4
+python-dotenv==0.21.0
+pymilvus==2.4.7
+transformers==4.45.2
+torch==2.4.1
+openai==1.52.2
+psycopg2-binary==2.9.9
+pytest==8.3.3
+pydantic-settings==2.6.0
