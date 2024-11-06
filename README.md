@@ -12,7 +12,6 @@ Kullanım
 API Belgeleri
 Proje Yapısı
 Katkıda bulunmak
-Lisans
 
 
 
@@ -177,6 +176,4 @@ Bir Çekme İsteği açın.
 
 
 
-Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır
 
