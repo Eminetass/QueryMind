@@ -29,28 +29,51 @@ Esnek Yapılandırma : Özelleştirilebilir ayarlar için ortam değişkenlerini
 PROJE YAPISI
 
 QueryMind/
+
 ├── api/
-│   ├── routers/
-│   │   └── QueryMind_router.py
+
+│   ├──  routers/
+
+│   │      └── QueryMind_router.py
+
 │   ├── services/
-│   │   ├── llm_service.py
-│   │   ├── milvus_service.py
-│   │   └── log_service.py
+
+│   │      ├── llm_service.py
+
+│   │      ├── milvus_service.py
+
+│   │      └── log_service.py
+
 ├── models/
-│   └── models.py
+
+│      └── models.py
+
 ├── configs/
-│   ├── settings.py
-│   └── log_config.py
+
+│      ├── settings.py
+
+│      └── log_config.py
+
 ├── data/
-│   └── AL.txt
+
+│      └── AL.txt
+
 ├── tests/
-│   ├── test_blog.py
-│   ├── test_query.py
-│   └── test_milvus.py
+
+│      ├── test_blog.py
+
+│      ├── test_query.py
+
+│      └── test_milvus.py
+
 ├── .env
+
 ├── requirements.txt
+
 ├── docker-compose.yml
+
 ├── main.py
+
 └── README.md
 
 
@@ -104,14 +127,13 @@ POST /query/- Bir sorgu dizesini kabul eder, bir vektör araması gerçekleştir
 Talep Gövdesi :
 json
 
-Kodu kopyala
 {
   "query": "Your question here"
 }
 Cevap :
 json
 
-Kodu kopyala
+
 {
   "response": "Generated answer based on search results"
 }
@@ -120,7 +142,9 @@ Kodu kopyala
 YAPILANDIRMA
 
 Milvus Bağlantısı : milvus_service.pyOrtam değişkenleri kullanılarak tanımlanır.
+
 LLM Yapılandırması.env : ve aracılığıyla yapılandırılmış OpenAI GPT modellerini kullanır settings.py.
+
 Veritabanı Yapılandırması : PostgreSQL için kurulum .env.
 
 
