@@ -35,25 +35,45 @@ QueryMind/
 │   ├── routers/
 
 │   │   └── QueryMind_router.py
+
 │   ├── services/
+
 │   │   ├── llm_service.py
+
 │   │   ├── milvus_service.py
+
 │   │   └── log_service.py
+
 ├── models/
+
 │   └── models.py
+
 ├── configs/
+
 │   ├── settings.py
+
 │   └── log_config.py
+
 ├── data/
+
 │   └── AL.txt
+
 ├── tests/
+
 │   ├── test_blog.py
+
 │   ├── test_query.py
+
 │   └── test_milvus.py
+
 ├── .env
+
 ├── requirements.txt
+
 ├── docker-compose.yml
+
 ├── main.py
+
 └── README.md
 
 
