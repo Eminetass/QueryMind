@@ -29,8 +29,11 @@ Esnek Yapılandırma : Özelleştirilebilir ayarlar için ortam değişkenlerini
 PROJE YAPISI
 
 QueryMind/
+
 ├── api/
+
 │   ├── routers/
+
 │   │   └── QueryMind_router.py
 │   ├── services/
 │   │   ├── llm_service.py
