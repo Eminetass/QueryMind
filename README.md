@@ -85,15 +85,19 @@ AZURE_OPENAI_LLM_MODEL=text-davinci-003
 
 
 
-Kullanım
+KULLANIM
+
 1.Swagger kullanıcı arayüzüne erişmek için http://127.0.0.1 :8080 /docs adresine gidin .
+
 2. /querySorularınızı göndermek için uç noktayı kullanın .
+
 3. Sistem, indekslenen içeriğe göre doğal dil yanıtı döndürecektir.
 
 
 
 
-API Uç Noktaları
+API UÇ NOKTALARI
+
 POST /query/- Bir sorgu dizesini kabul eder, bir vektör araması gerçekleştirir ve bir yanıt üretir.
 Talep Gövdesi :
 json
@@ -111,7 +115,7 @@ Kodu kopyala
 }
 
 
-Yapılandırma
+YAPILANDIRMA
 Milvus Bağlantısı : milvus_service.pyOrtam değişkenleri kullanılarak tanımlanır.
 LLM Yapılandırması.env : ve aracılığıyla yapılandırılmış OpenAI GPT modellerini kullanır settings.py.
 Veritabanı Yapılandırması : PostgreSQL için kurulum .env.
