@@ -21,10 +21,11 @@ openai.api_type = "azure"
 def generate_response_with_llm(search_results):
         # Milvus'tan gelen arama sonuçlarını kullanarak LLM yanıtı üretir.
 
-    prompt_texts = "\n".join([str(result) for result in search_results if result is not None])
-    prompt = f"Aşağıdaki bilgilere dayanarak en iyi yanıtı oluştur:\n{prompt_texts}\n\nSoruya yanıt:"
-    print(prompt)
+  
     try:
+        prompt_texts = "\n".join([str(result) for result in search_results if result is not None])
+        prompt = f"Aşağıdaki bilgilere dayanarak en iyi yanıtı oluştur:\n{prompt_texts}\n\nSoruya yanıt:"
+        print(prompt)
 
         response = openai.ChatCompletion.create(
             engine=settings.AZURE_OPENAI_LLM_MODEL,
