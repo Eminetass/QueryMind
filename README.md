@@ -32,39 +32,39 @@ QueryMind/
 
 ├── api/
 
-│   ├── routers/
+│   ├──  routers/
 
-│   │   └── QueryMind_router.py
+│   │      └── QueryMind_router.py
 
 │   ├── services/
 
-│   │   ├── llm_service.py
+│   │      ├── llm_service.py
 
-│   │   ├── milvus_service.py
+│   │      ├── milvus_service.py
 
-│   │   └── log_service.py
+│   │      └── log_service.py
 
 ├── models/
 
-│   └── models.py
+│      └── models.py
 
 ├── configs/
 
-│   ├── settings.py
+│      ├── settings.py
 
-│   └── log_config.py
+│      └── log_config.py
 
 ├── data/
 
-│   └── AL.txt
+│      └── AL.txt
 
 ├── tests/
 
-│   ├── test_blog.py
+│      ├── test_blog.py
 
-│   ├── test_query.py
+│      ├── test_query.py
 
-│   └── test_milvus.py
+│      └── test_milvus.py
 
 ├── .env
 
