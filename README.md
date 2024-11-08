@@ -127,14 +127,13 @@ POST /query/- Bir sorgu dizesini kabul eder, bir vektör araması gerçekleştir
 Talep Gövdesi :
 json
 
-Kodu kopyala
 {
   "query": "Your question here"
 }
 Cevap :
 json
 
-Kodu kopyala
+
 {
   "response": "Generated answer based on search results"
 }
@@ -143,7 +142,9 @@ Kodu kopyala
 YAPILANDIRMA
 
 Milvus Bağlantısı : milvus_service.pyOrtam değişkenleri kullanılarak tanımlanır.
+
 LLM Yapılandırması.env : ve aracılığıyla yapılandırılmış OpenAI GPT modellerini kullanır settings.py.
+
 Veritabanı Yapılandırması : PostgreSQL için kurulum .env.
 
 
