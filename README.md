@@ -2,22 +2,24 @@ QueryMind
 QueryMind, Milvus vektör veritabanının ve OpenAI'nin Büyük Dil Modelleri'nin (LLM) yeteneklerini kullanmak üzere tasarlanmış, yapay zeka destekli akıllı bir arama ve yanıt sistemidir. Proje, kullanıcıların büyük metin verilerinden içgörüler çıkarmasını, verimli vektör tabanlı aramalar gerçekleştirmesini ve gelişmiş derin öğrenme modelleri kullanarak doğru, bağlam farkında yanıtlar üretmesini sağlar.
 
 
-İçindekiler
-Genel bakış
-Özellikler
-Proje Yapısı
-Gereksinimler
-Kurulum
-Kullanım
-API Uç Noktaları
-Yapılandırma
-Katkıda bulunmak
+İçindekiler :
+Genel bakış ,
+Özellikler ,
+Proje Yapısı ,
+Gereksinimler , 
+Kurulum ,
+Kullanım , 
+API Uç Noktaları ,
+Yapılandırma ,
+Katkıda bulunmak ,
 
 
 GENEL BAKIŞ
+
 QueryMind, hızlı, ölçeklenebilir ve doğru yanıtlar sunmak için metin yerleştirmeleri ve vektör araması için makine öğrenimi tekniklerinden yararlanır. Verimli benzerlik araması için Milvus vektör veritabanını ve doğal dil yanıtları oluşturmak için OpenAI'nin GPT modellerini entegre eder. Bu çözüm, sohbet robotları, soru-cevap sistemleri ve kişiselleştirilmiş içerik dağıtımı gibi akıllı arama yetenekleri gerektiren uygulamalar için idealdir.
 
 ÖZELLİKLER
+
 Verimli Metin Gömme : Metni yüksek boyutlu gömmelere dönüştürmek için Transformer modellerini kullanır.
 Milvus ile Vektör Arama : Milvus vektör veritabanında gömülü verileri depolar ve geri alır, böylece hızlı ve ölçeklenebilir benzerlik aramaları sağlar.
 Doğal Dil Tepkileri : Tutarlı ve bağlamsal olarak doğru yanıtlar üretmek için OpenAI'nin GPT modellerini kullanır.
@@ -116,6 +118,7 @@ Kodu kopyala
 
 
 YAPILANDIRMA
+
 Milvus Bağlantısı : milvus_service.pyOrtam değişkenleri kullanılarak tanımlanır.
 LLM Yapılandırması.env : ve aracılığıyla yapılandırılmış OpenAI GPT modellerini kullanır settings.py.
 Veritabanı Yapılandırması : PostgreSQL için kurulum .env.
