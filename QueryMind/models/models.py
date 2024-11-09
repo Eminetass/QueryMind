@@ -29,6 +29,8 @@ class Log(Base):
 
     id = Column(Integer,primary_key=True,index=True)
     user_question = Column(String(500),nullable=False)
+    username = Column(String, unique=True, index=True)
+    hashed_password = Column(String)
     assistant_answer = Column(String(500),nullable=False)
     DateTime = Column(DateTime(timezone=True),server_default=func.now())
 

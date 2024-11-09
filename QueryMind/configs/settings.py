@@ -19,6 +19,10 @@ class Settings(BaseSettings):
     AZURE_OPENAI_API_KEY: str = os.getenv("AZURE_OPENAI_API_KEY")
     MODEL_NAME: str = os.getenv("MODEL_NAME", "distilbert-base-uncased")
 
+    SECRET_KEY: str
+    ALGORITHM: str
+    ACCESS_TOKEN_EXPIRE_MINUTES: int
+    
     class Config:
         env_file = '.env'
         env_file_encoding = 'utf-8'
