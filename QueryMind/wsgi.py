@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api.routers.query_mind import router
+from api.routers.query_mind import router 
 
 def init_routers(app: FastAPI) -> None:
     app.include_router(router)
