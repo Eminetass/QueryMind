@@ -13,3 +13,4 @@ openai==1.52.2
 psycopg2-binary==2.9.9
 pytest==8.3.3
 pydantic-settings==2.6.0
+alembic == 2.1.3

@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./QueryMind/models",
+        "./QueryMind",
+        "./QueryMind",
+        "./QueryMind"
+    ]
+}
